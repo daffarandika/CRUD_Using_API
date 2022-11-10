@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Super Hero API</string>
+    <string name="id_1_s">id = %1$s</string>
+    <string name="name_1_s">name = %1$s</string>
+    <string name="first_name_1_s">First Name = %1$s</string>
+    <string name="last_name_1_s">Last Name = %1$s</string>
+    <string name="place_1_s">Place = %1$s</string>
+</resources>
